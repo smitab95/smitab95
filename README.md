@@ -66,7 +66,7 @@ I'm a Product Manager with experience across **Better.com (mortgage lending)**, 
 
 ### 🎓 Education & certifications
 
-- **PGDM** — IMT Nagpur · **B.Com (Accounting)** — SNDT University
+- **PGDM** — IMT Nagpur
 - Certifications from **DeepLearning.AI**, **LinkedIn Learning**, and **PMI** — incl. *AI For Everyone*, *Generative AI for Product Managers*, *Building a Product Strategy*
 
 ---
