@@ -78,3 +78,5 @@ I'm a Product Manager with experience across **Better.com (mortgage lending)**, 
 </div>
 
 <p align="center"><i>Let's connect — I'm always up for talking product, fintech, and GenAI. 📬</i></p>
+
+<!-- profile -->
